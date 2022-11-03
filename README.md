@@ -5,5 +5,5 @@ clue : add as a contributor.
 Group Big Data 1 : 1. Muhammad Adam, 2. Bayu Lesmana, 3. Malvin Nugraha.
 Here we create a python program operating matrix 3*3.
 multiplication : kalimatrix.py (Muhammad Adam)
-additional : ...... (Malvin Nugraha)
+additional : jumlahmatrix.py (Malvin Nugraha)
 subtraction : ...... (Bayu Lesmana)
