@@ -30,11 +30,12 @@ matriksJ = [
     [6, 16, 26]
 ]
 
+print("The multiplication of matrix K and J is : ")
 for x in range(0, len(matriksK)):
     row = []
     for y in range(0, len(matriksK[0])):
         result = np.empty((3,3))
         for z in range(0, len(matriksK)):
             result += (matriksK[x][z] * matriksJ[z][y])
-        print("The multiplication of matrix K and J is : \n", result[x][y], end =' ')
+        print("\n", result[x][y], end =' ')
     print("")
