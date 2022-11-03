@@ -37,5 +37,5 @@ for x in range(0, len(matriksK)):
         result = np.empty((3,3))
         for z in range(0, len(matriksK)):
             result += (matriksK[x][z] * matriksJ[z][y])
-        print("\n", result[x][y], end =' ')
+        print(result[x][y], end =' ')
     print("")
