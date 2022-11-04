@@ -6,4 +6,4 @@ Group Big Data 1 : 1. Muhammad Adam, 2. Bayu Lesmana, 3. Malvin Nugraha.
 Here we create a python program operating matrix 3*3.
 multiplication : kalimatrix.py (Muhammad Adam)
 additional : jumlahmatriks.py (Malvin Nugraha)
-subtraction : ...... (Bayu Lesmana)
+subtraction : kurangmatrix.py (Bayu Lesmana)
