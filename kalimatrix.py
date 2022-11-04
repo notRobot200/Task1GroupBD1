@@ -39,3 +39,5 @@ for x in range(0, len(matriksK)):
             result += (matriksK[x][z] * matriksJ[z][y])
         print(result[x][y], end =' ')
     print("")
+
+    
