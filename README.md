@@ -7,3 +7,5 @@ Here we create a python program operating matrix 3*3.
 multiplication : kalimatrix.py (Muhammad Adam)
 additional : jumlahmatriks.py (Malvin Nugraha)
 subtraction : kurangmatrix.py (Bayu Lesmana)
+
+note : bayu added the same file three times, and then I delete it so only one left but I delete the wrong file and the remaining files are empty
