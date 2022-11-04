@@ -15,6 +15,7 @@ How I push my file to repository ?
 I use command line add remote origin <my repo url> and then I push it
 How my team mate push file to my repository ?
 He tried the same as me but he got an error like this "error : failed to push some refs to <my repo url>", and my group have no idea for this
+Anyone who has a solution can directly type below
 After that he used an alternative solution by adding the file directly via git hub.
 
-Thanks.
+Thanks from group big data 1.
