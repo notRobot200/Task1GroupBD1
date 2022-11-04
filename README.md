@@ -9,3 +9,4 @@ additional : jumlahmatriks.py (Malvin Nugraha)
 subtraction : kurangmatrix.py (Bayu Lesmana)
 
 note : bayu added the same file three times, and then I delete it so only one left but I delete the wrong file and the remaining files are empty
+![Screenshot (3890)](https://user-images.githubusercontent.com/117140539/199904244-d92ca2cc-678d-4e01-9b04-c7435ea39ff9.png)
