@@ -9,3 +9,6 @@ note : I use account faishalyb to test the difference between adding files to ma
 the difference is if you just add files in branch so the contributor and the language doesn't appear on the home page
 I add file kalimatrix.py for test, and then the languange appear on the home page
 I add file .txt use account faishalyb and I delete it use my account
+after I made sure I gave orders to my group mates to try to add files in main
+
+Thanks.
