@@ -14,7 +14,8 @@ after I made sure I gave orders to my group mates to try to add files in main
 How I push my file to repository ?
 I use command line add remote origin <my repo url> and then I push it
 How my team mate push file to my repository ?
-He tried the same as me but he got an error like this "error : failed to push some refs to <my repo url>", and my group have no idea for this
+He tried the same as me but he got an error like this "error : failed to push some refs to <my repo url>"
+It is because the remote to master so he only push to master
 ![WhatsApp Image 2022-11-04 at 12 29 20](https://user-images.githubusercontent.com/117140539/199899553-aa532c0a-73d1-4804-b36b-f900b2d33575.jpg)
 Anyone who has a solution can directly type below
 After that he used an alternative solution by adding the file directly via git hub.
